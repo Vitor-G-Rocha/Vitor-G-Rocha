@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
 </div>
 
-<h3>Interest in &#8595</h3>
+### Interest in &#8595;
 <div style="display: inline-block"> 
   
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">  
